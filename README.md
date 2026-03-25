@@ -1,23 +1,23 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,25:111827,55:1d4ed8,80:2563eb,100:60a5fa&text=Dashboard%20Focus%20Power%20BI&fontSize=38&fontColor=f8fafc&fontAlignY=38&desc=Business%20Intelligence%20%7C%20Data%20Visualization%20%7C%20Analytical%20Dashboard&descAlignY=60&descSize=18&descColor=dbeafe&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,20:1e3a8a,45:2563eb,70:f2c811,100:facc15&text=Dashboard%20Focus%20Power%20BI&fontSize=38&fontColor=f8fafc&fontAlignY=38&desc=Business%20Intelligence%20%7C%20Data%20Visualization%20%7C%20Analytical%20Dashboard&descAlignY=60&descSize=18&descColor=fef3c7&animation=twinkling" />
 </p>
 
 <p align="center">
-  Dashboard desenvolvido em <b>Power BI</b> com foco em <b>análise de lucro</b>, <b>desempenho comercial</b> e <b>visualização estratégica de indicadores</b>, com layout autoral, tema escuro e navegação interativa pensada para apresentar dados de forma mais executiva e profissional.
+  Dashboard desenvolvido em <b>Power BI</b> com foco em <b>análise de lucro</b>, <b>desempenho comercial</b> e <b>visualização estratégica de indicadores</b>, combinando tema escuro, identidade em tons de azul e destaque em amarelo para reforçar a proposta visual ligada a <b>Business Intelligence</b>.
 </p>
 
 <p align="center">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000">
-  <img alt="Business Intelligence" src="https://img.shields.io/badge/Business-Intelligence-1D4ED8?style=for-the-badge">
-  <img alt="Data Visualization" src="https://img.shields.io/badge/Data-Visualization-2563EB?style=for-the-badge">
-  <img alt="Analytics" src="https://img.shields.io/badge/Analytics-0F766E?style=for-the-badge">
-  <img alt="Dashboard Design" src="https://img.shields.io/badge/Dashboard-Design-7C3AED?style=for-the-badge">
-  <img alt="Portfolio Project" src="https://img.shields.io/badge/Portfolio-Project-111827?style=for-the-badge">
+  <img alt="Business Intelligence" src="https://img.shields.io/badge/Business-Intelligence-2563EB?style=for-the-badge">
+  <img alt="Data Visualization" src="https://img.shields.io/badge/Data-Visualization-1D4ED8?style=for-the-badge">
+  <img alt="Analytics" src="https://img.shields.io/badge/Analytics-FACC15?style=for-the-badge&logoColor=000000">
+  <img alt="Dashboard Design" src="https://img.shields.io/badge/Dashboard-Design-0F172A?style=for-the-badge">
+  <img alt="Portfolio Project" src="https://img.shields.io/badge/Portfolio-Project-1E293B?style=for-the-badge">
 </p>
 
 ---
 
-## <span style="color:#60A5FA;">`> overview`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> overview`</span>
 
 Este projeto apresenta um <b>dashboard completo em Power BI</b>, desenvolvido como parte de um desafio prático da <b>DIO</b>, com liberdade total para definir a estrutura analítica, identidade visual e experiência de navegação.
 
@@ -25,7 +25,7 @@ A proposta foi transformar dados em uma interface mais estratégica, moderna e v
 
 ---
 
-## <span style="color:#60A5FA;">`> business_focus`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> business_focus`</span>
 
 O dashboard foi construído para destacar a performance de negócio com foco em:
 
@@ -39,7 +39,7 @@ O dashboard foi construído para destacar a performance de negócio com foco em:
 
 ---
 
-## <span style="color:#60A5FA;">`> key_features`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> key_features`</span>
 
 Principais diferenciais do projeto:
 
@@ -53,7 +53,7 @@ Principais diferenciais do projeto:
 
 ---
 
-## <span style="color:#60A5FA;">`> visuals_created`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> visuals_created`</span>
 
 Os principais elementos analíticos desenvolvidos no relatório foram:
 
@@ -66,12 +66,12 @@ Os principais elementos analíticos desenvolvidos no relatório foram:
 
 ---
 
-## <span style="color:#60A5FA;">`> visual_design`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> visual_design`</span>
 
 O projeto foi pensado com forte preocupação visual, buscando uma apresentação mais sofisticada e alinhada a dashboards corporativos. Entre os pontos trabalhados:
 
 - tema escuro
-- contraste em azul e tons frios
+- contraste entre azul e amarelo
 - organização em blocos visuais
 - cards com destaque para KPIs
 - cabeçalho estilizado
@@ -80,7 +80,7 @@ O projeto foi pensado com forte preocupação visual, buscando uma apresentaçã
 
 ---
 
-## <span style="color:#60A5FA;">`> project_structure`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> project_structure`</span>
 
     dashboard-desempenho-financeiro
     │
@@ -95,7 +95,7 @@ O projeto foi pensado com forte preocupação visual, buscando uma apresentaçã
 
 ---
 
-## <span style="color:#60A5FA;">`> preview`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> preview`</span>
 
 ### Dashboard principal
 <p align="center">
@@ -109,7 +109,7 @@ O projeto foi pensado com forte preocupação visual, buscando uma apresentaçã
 
 ---
 
-## <span style="color:#60A5FA;">`> skills_applied`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> skills_applied`</span>
 
 - Power BI
 - Business Intelligence
@@ -123,7 +123,7 @@ O projeto foi pensado com forte preocupação visual, buscando uma apresentaçã
 
 ---
 
-## <span style="color:#60A5FA;">`> project_goal`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> project_goal`</span>
 
 O objetivo deste projeto foi ir além da construção de um relatório básico, desenvolvendo um dashboard com identidade própria, estrutura analítica clara e apresentação visual mais refinada.
 
@@ -131,12 +131,12 @@ Além da parte técnica, o foco também esteve em criar um material forte para p
 
 ---
 
-## <span style="color:#60A5FA;">`> author`</span>
+## <span style="background: linear-gradient(90deg, #60A5FA, #FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> author`</span>
 
 **Christopher Benini**
 
 <p>
   <a href="https://github.com/chrisbenini">
-    <img src="https://img.shields.io/badge/GitHub-chrisbenini-111827?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-chrisbenini-1E293B?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
