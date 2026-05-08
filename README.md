@@ -67,18 +67,6 @@ Dashboard criado para transformar dados comerciais em **insights rápidos para d
 
 ---
 
-## <span style="background: linear-gradient(90deg,#60A5FA,#FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> preview`</span>
-
-<p align="center">
-  <img src="./Images/Dash.png" width="900">
-</p>
-
-<p align="center">
-  <img src="./Images/Dash_Menu.png" width="900">
-</p>
-
----
-
 ## <span style="background: linear-gradient(90deg,#60A5FA,#FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> tech_stack`</span>
 
 <p align="center">
