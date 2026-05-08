@@ -64,6 +64,7 @@ Business Intelligence
 
 > PROJECT STRUCTURE
 
+```sql
 dashboard-desempenho-financeiro
 │
 ├── BI/
@@ -74,6 +75,7 @@ dashboard-desempenho-financeiro
 │   └── Dash_Menu.png
 │
 └── README.md
+```
 
 ---
 
