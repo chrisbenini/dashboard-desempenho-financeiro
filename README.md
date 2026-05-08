@@ -15,6 +15,16 @@ Dashboard analítico desenvolvido em <b>Power BI</b> para visualização estrat�
 
 ---
 
+<p align="center">
+<img src="./Images/Dash.png" width="900">
+</p>
+
+<p align="center">
+<img src="./Images/Dash_Menu.png" width="900">
+</p>
+
+---
+
 ## <span style="background: linear-gradient(90deg,#60A5FA,#FACC15); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">`> what_is_this`</span>
 
 Dashboard criado para transformar dados comerciais em **insights rápidos para decisão**.
